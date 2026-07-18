@@ -2422,13 +2422,13 @@
     "title": "BLITZ ATTACK",
     "date": "2026-05-04",
     "tags": "",
-    "images": 0,
+    "images": 1,
     "reading": 2,
     "excerpt": "Aun en EE.UU., donde las redes públicas ofrecen buena presión y caudal, el uso del deck gun (monitor fijo del camión) como ataque inicial sigue dividiendo a los bomberos. La…",
-    "thumb": null,
+    "thumb": "https://i.ibb.co/KpDBQ91H/portada-blitz-attack.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": null
+    "ratio": 1.0216535433070866
   },
   {
     "slug": "c-mo-crece-un-incendio-la-matem-tica-detr-s-del-fuego",
@@ -3189,13 +3189,13 @@
     "title": "EL CASO DE PAULA BEHNKE",
     "date": "2026-05-03",
     "tags": "",
-    "images": 0,
+    "images": 1,
     "reading": 2,
     "excerpt": "En las últimas semanas he venido desarrollando una serie de publicaciones tituladas 𝗘𝗟 𝗠𝗢𝗗𝗘𝗟𝗢 𝗥𝗢𝗧𝗢 𝗗𝗘 𝗟𝗔 𝗜𝗡𝗚𝗘𝗡𝗜𝗘𝗥𝗜́𝗔 𝗖𝗢𝗡𝗧𝗥𝗔 𝗜𝗡𝗖𝗘𝗡𝗗𝗜𝗢𝗦, donde intento entender cómo llegamos a un…",
-    "thumb": null,
+    "thumb": "https://i.ibb.co/j99qL7T9/portada-caso-paula-behnke.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": null
+    "ratio": 1.5
   },
   {
     "slug": "el-error-fatal-en-el-dise-o-de-sistemas-de-rociadores-en-el-per-que-nadie-est-queriendo-ver",
