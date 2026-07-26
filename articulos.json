@@ -4,13 +4,13 @@
     "title": "EL BALSERO Y EL TRASATLÁNTICO — Parte 4: El que remaba con orgullo",
     "date": "2026-07-26",
     "tags": "",
-    "images": 0,
+    "images": 5,
     "reading": 3,
     "excerpt": "El balsero, llamado Yusuf, llevaba meses en el puente.\nHabía aprendido a leer el mar desde arriba con la misma naturalidad con que antes lo leía desde abajo. Conocía la diferencia…",
-    "thumb": null,
+    "thumb": "assets/img/el-balsero-parte-4-1.webp",
     "theme_keys": "filosofia-del-conocimiento",
     "theme_label": "Filosofía del Conocimiento",
-    "ratio": null
+    "ratio": 1.791044776119403
   },
   {
     "slug": "cada-minuto-de-exposicion-al-humo-suma-una-fraccion-de-incapacitacion",
@@ -23,7 +23,7 @@
     "thumb": "https://i.ibb.co/8DKtxryY/7-1-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "el-calor-incapacita-antes-de-matar-y-los-tiempos-de-tolerancia-son-precisos",
@@ -36,7 +36,7 @@
     "thumb": "https://i.ibb.co/7wK7hPh/5-4-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "el-co2-hace-que-los-otros-gases-del-incendio-incapaciten-mas-rapido",
@@ -49,7 +49,7 @@
     "thumb": "https://i.ibb.co/pBv2cdst/5-3-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "el-compromiso-con-la-actividad-compite-con-la-decision-de-evacuar",
@@ -62,7 +62,7 @@
     "thumb": "https://i.ibb.co/7xsht7c9/3-3-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "el-escenario-de-incendio-esta-incompleto-sin-el-escenario-de-ocupantes",
@@ -75,7 +75,7 @@
     "thumb": "https://i.ibb.co/VpCTVPW0/6-1-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "el-modelo-hidraulico-calcula-el-tiempo-minimo-no-el-tiempo-real-de-evacuacion",
@@ -88,7 +88,7 @@
     "thumb": "https://i.ibb.co/5tqBb6z/8-2-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "el-monoxido-de-carbono-deteriora-la-capacidad-de-evacuar-antes-de-provocar-dolor",
@@ -101,7 +101,7 @@
     "thumb": "https://i.ibb.co/1YqsdbSw/5-1-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "el-olfato-falla-como-sistema-de-alerta-nocturna-en-incendios",
@@ -114,7 +114,7 @@
     "thumb": "https://i.ibb.co/PZP1JF1V/4-2-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "el-tipo-de-fuego-determina-cuanto-tiempo-tienen-los-ocupantes-para-escapar",
@@ -127,7 +127,7 @@
     "thumb": "https://i.ibb.co/qHjFLFQ/7-2-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "evacuar-no-es-siempre-la-respuesta-correcta-para-todos-los-ocupantes-al-mismo-tiempo",
@@ -140,7 +140,7 @@
     "thumb": "https://i.ibb.co/fdrRmnVh/13-1-lam01-plantilla.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-alarma-inicia-un-proceso-de-decision-que-rara-vez-es-inmediato",
@@ -153,7 +153,7 @@
     "thumb": "https://i.ibb.co/qMGD4R3x/4-1-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-alarma-que-el-mundo-adopto-como-estandar-no-la-entiende-casi-nadie",
@@ -166,7 +166,7 @@
     "thumb": "https://i.ibb.co/Gf8PQv1n/4-3-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-carrera-entre-el-tiempo-disponible-y-el-tiempo-necesario",
@@ -179,7 +179,7 @@
     "thumb": "https://i.ibb.co/FvD9Sx7/2-2-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-ciencia-lleva-cincuenta-anos-desmintiendo-el-panico-como-respuesta-al-incendio",
@@ -192,7 +192,7 @@
     "thumb": "https://i.ibb.co/DHZfM9Cx/4-6-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-densidad-optima-de-evacuacion-existe-y-superarla-reduce-el-flujo",
@@ -205,7 +205,7 @@
     "thumb": "https://i.ibb.co/5gyry0nk/8-1-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-incertidumbre-en-el-analisis-de-evacuacion-tiene-dos-origenes-y-solo-uno-puede-reducirse",
@@ -218,7 +218,7 @@
     "thumb": "https://i.ibb.co/RkJNPzGX/11-1-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-influencia-social-retrasa-la-decision-de-evacuar",
@@ -231,7 +231,7 @@
     "thumb": "https://i.ibb.co/7t6NFZk5/3-1-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-investigacion-sobre-comportamiento-en-incendios-se-resume-en-veintiocho-hechos",
@@ -244,7 +244,7 @@
     "thumb": "https://i.ibb.co/CKRWjDYY/4-7-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-mayoria-de-los-sobrevivientes-camino-a-traves-del-humo-para-escapar",
@@ -257,7 +257,7 @@
     "thumb": "https://i.ibb.co/cKHqgSKC/4-5-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-poblacion-que-evacua-envejece-y-los-modelos-aun-no-lo-saben",
@@ -270,7 +270,7 @@
     "thumb": "https://i.ibb.co/rNHCBjG/3-4-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-visibilidad-en-humo-importa-por-lo-que-retarda-no-por-lo-que-oculta",
@@ -283,7 +283,7 @@
     "thumb": "https://i.ibb.co/Ymy8V2b/5-2-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "las-alarmas-falsas-entrenan-a-los-ocupantes-para-ignorar-las-reales",
@@ -296,7 +296,7 @@
     "thumb": "https://i.ibb.co/G4Jtn1N5/4-4-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "las-normas-imaginan-personas-que-no-existen-en-la-realidad",
@@ -309,7 +309,7 @@
     "thumb": "https://i.ibb.co/TB2kXZxV/2-1-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "los-ocupantes-evacuan-por-donde-entraron",
@@ -322,7 +322,7 @@
     "thumb": "https://i.ibb.co/fYjK7ZBy/3-2-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "los-simulacros-anunciados-y-no-anunciados-miden-cosas-distintas-y-ambos-son-necesarios",
@@ -335,7 +335,7 @@
     "thumb": "https://i.ibb.co/9mhLysS8/12-2-lam01-plantilla.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "un-mensaje-de-emergencia-eficaz-tiene-cinco-componentes-y-todos-son-obligatorios",
@@ -348,7 +348,7 @@
     "thumb": "https://i.ibb.co/7dcDZkb1/12-1-lam01-plantilla.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "un-modelo-de-evacuacion-mas-sofisticado-no-garantiza-resultados-mas-confiables",
@@ -361,7 +361,7 @@
     "thumb": "https://i.ibb.co/zVZpfrj1/9-1-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "verificar-un-modelo-de-evacuacion-y-validarlo-son-dos-cosas-distintas-y-ambas-obligatorias",
@@ -374,7 +374,7 @@
     "thumb": "https://i.ibb.co/r277wky2/10-1-lam03-portada.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "el-balsero-y-el-trasatl-ntico-parte-3-los-que-miraban-desde-el-muelle",
@@ -387,7 +387,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/b1a1bc34-a0dc-4e8d-81d0-e85ca0f4c1b5.png",
     "theme_keys": "filosofia-del-conocimiento",
     "theme_label": "Filosofía del Conocimiento",
-    "ratio": 1.8333333333333333
+    "ratio": null
   },
   {
     "slug": "el-balsero-y-el-trasatl-ntico-parte-2-los-que-se-quedaron-en-el-mar",
@@ -400,7 +400,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/712fb156-27ca-4245-86ec-007b624307d2.png",
     "theme_keys": "filosofia-del-conocimiento",
     "theme_label": "Filosofía del Conocimiento",
-    "ratio": 1.8333333333333333
+    "ratio": null
   },
   {
     "slug": "el-balsero-y-el-trasatl-ntico",
@@ -413,7 +413,7 @@
     "thumb": "https://files.catbox.moe/h4cjqi.png",
     "theme_keys": "filosofia-del-conocimiento",
     "theme_label": "Filosofía del Conocimiento",
-    "ratio": 1.8333333333333333
+    "ratio": null
   },
   {
     "slug": "hrr-y-radiacion-en-tanques-un-problema-de-geometria",
@@ -426,7 +426,7 @@
     "thumb": "https://i.ibb.co/bjWHXdSX/hrr-y-radiacion-en-tanques-un-hrryradiacin-p3-jpg.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "la-suerte-no-es-una-estrategia-de-proteccion-contra-incendios",
@@ -452,7 +452,7 @@
     "thumb": "https://i.ibb.co/hRpg143c/resistencia-estructural-del-ac-resistenciaest-p3-jpg.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "an-lisis-de-evacuaci-n-de-un-bus-de-dos-pisos",
@@ -465,7 +465,7 @@
     "thumb": "https://files.catbox.moe/sj9twv.jpg",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.7861635220125787
+    "ratio": null
   },
   {
     "slug": "an-lisis-modelado-y-simulaci-n-computacional-de-incendios-y-evacuaci-n-en-una-edificacion-educativa-con-2-atrios-de-16-metros-de-altura",
@@ -478,7 +478,7 @@
     "thumb": "https://files.catbox.moe/wfwgv0.jpg",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.382882882882883
+    "ratio": null
   },
   {
     "slug": "competencias-t-cnicas-m-nimas-recomendadas-para-la-pr-ctica-de-la-ingenier-a-de-la-protecci-n-contra-incendios",
@@ -491,7 +491,7 @@
     "thumb": "https://files.catbox.moe/3wm97j.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.6009389671361502
+    "ratio": null
   },
   {
     "slug": "criterios-para-la-selecci-n-correcta-de-una-bomba-jockey",
@@ -504,7 +504,7 @@
     "thumb": "https://files.catbox.moe/22lqos.jpg",
     "theme_keys": "hidraulica",
     "theme_label": "Hidráulica",
-    "ratio": 0.75
+    "ratio": null
   },
   {
     "slug": "cu-les-son-las-implicancias-legales-de-ser-un-proyectista-en-protecci-n-de-agua-contra-incendios",
@@ -517,7 +517,7 @@
     "thumb": "https://files.catbox.moe/8b19ci.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.3011695906432748
+    "ratio": null
   },
   {
     "slug": "deflagraciones-en-gases-licuados-de-petr-leo",
@@ -530,7 +530,7 @@
     "thumb": "https://files.catbox.moe/45ofpe.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7762478485370052
+    "ratio": null
   },
   {
     "slug": "el-ataque-por-bombardeo-los-chorros-hip-critas-y-la-experiencia-del-incendio-en-cangallo-reflexiones-sobre-la-protecci-n-contra-incendios-en-el-per",
@@ -543,7 +543,7 @@
     "thumb": "https://files.catbox.moe/fjr229.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.2893982808022924
+    "ratio": null
   },
   {
     "slug": "el-futuro-de-latinoam-rica-sin-formaci-n-adecuada-en-protecci-n-contra-incendios",
@@ -556,7 +556,7 @@
     "thumb": "https://files.catbox.moe/wx8kvm.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.7433962264150944
+    "ratio": null
   },
   {
     "slug": "el-problema-del-agua-para-el-combate-de-incendios",
@@ -569,7 +569,7 @@
     "thumb": "https://files.catbox.moe/hw5fv6.jpg",
     "theme_keys": "hidraulica",
     "theme_label": "Hidráulica",
-    "ratio": 1.7409470752089136
+    "ratio": null
   },
   {
     "slug": "el-problema-del-control-de-humos-en-las-escaleras-de-evacuaci-n-de-las-edificaciones",
@@ -582,7 +582,7 @@
     "thumb": "https://files.catbox.moe/3c5o80.jpg",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.8451704545454546
+    "ratio": null
   },
   {
     "slug": "el-rol-de-la-autoridad-competente-en-la-normativas-de-protecci-n-contra-incendios",
@@ -595,7 +595,7 @@
     "thumb": "https://files.catbox.moe/qk5iyp.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.1666666666666667
+    "ratio": null
   },
   {
     "slug": "el-uso-de-los-cielorrasos-suspendidos-y-los-cielorrasos-desprendibles",
@@ -608,7 +608,7 @@
     "thumb": "https://files.catbox.moe/tz5wh2.jpg",
     "theme_keys": "materiales-y-construccion",
     "theme_label": "Materiales y Construcción",
-    "ratio": 1.781491002570694
+    "ratio": null
   },
   {
     "slug": "explosiones-en-polvos-comestibles",
@@ -621,7 +621,7 @@
     "thumb": "https://files.catbox.moe/elnz9t.jpg",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 1.7146892655367232
+    "ratio": null
   },
   {
     "slug": "incendios-en-centros-de-diversi-n-aprenda-a-estar-preparado-para-afrontarlos",
@@ -634,7 +634,7 @@
     "thumb": "https://files.catbox.moe/g3e95i.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.7924528301886793
+    "ratio": null
   },
   {
     "slug": "instalaci-n-de-rociadores-en-cuartos-de-ba-o",
@@ -647,7 +647,7 @@
     "thumb": "https://files.catbox.moe/5u19u2.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.3333333333333333
+    "ratio": null
   },
   {
     "slug": "investigaci-n-sobre-el-incendio-en-la-boda-de-qaraqosh-lecciones-para-latinoam-rica",
@@ -660,7 +660,7 @@
     "thumb": "https://files.catbox.moe/uzun4j.jpg",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 1.7769230769230768
+    "ratio": null
   },
   {
     "slug": "la-certificaci-n-de-los-sistemas-de-bombeo-contra-incendios-en-la-normativa-nacional",
@@ -673,7 +673,7 @@
     "thumb": "https://files.catbox.moe/ast6bl.jpg",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.5015015015015014
+    "ratio": null
   },
   {
     "slug": "la-fuerza-de-reacci-n-en-la-operaci-n-de-chorros-de-agua-contra-incendio",
@@ -686,7 +686,7 @@
     "thumb": "https://files.catbox.moe/hop2v5.jpg",
     "theme_keys": "hidraulica",
     "theme_label": "Hidráulica",
-    "ratio": 1.6550632911392404
+    "ratio": null
   },
   {
     "slug": "la-importancia-y-limitaciones-de-los-sensores-de-humo-a-bater-a",
@@ -699,7 +699,7 @@
     "thumb": "https://files.catbox.moe/n43oi6.jpg",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.4982698961937717
+    "ratio": null
   },
   {
     "slug": "la-problem-tica-de-la-protecci-n-contra-incendios-en-el-per",
@@ -712,7 +712,7 @@
     "thumb": "https://files.catbox.moe/3w07bm.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.4428274428274428
+    "ratio": null
   },
   {
     "slug": "la-protecci-n-a-la-corrosi-n-en-las-tuber-as-de-agua-contra-incendios",
@@ -725,7 +725,7 @@
     "thumb": "https://files.catbox.moe/hbvkqo.jpg",
     "theme_keys": "materiales-y-construccion",
     "theme_label": "Materiales y Construcción",
-    "ratio": 1.5881006864988558
+    "ratio": null
   },
   {
     "slug": "las-complejidades-de-las-v-lvulas-reguladoras-de-presi-n-en-los-sistemas-de-gabinetes-de-mangueras",
@@ -738,7 +738,7 @@
     "thumb": "https://files.catbox.moe/nv6ehg.jpg",
     "theme_keys": "hidraulica",
     "theme_label": "Hidráulica",
-    "ratio": 1.1987381703470033
+    "ratio": null
   },
   {
     "slug": "las-complejidades-en-la-selecci-n-de-una-bomba-contra-incendios",
@@ -751,7 +751,7 @@
     "thumb": "https://files.catbox.moe/u6yksk.jpg",
     "theme_keys": "hidraulica",
     "theme_label": "Hidráulica",
-    "ratio": 1.2210743801652892
+    "ratio": null
   },
   {
     "slug": "las-mangueras-contra-incendio-para-los-ocupantes-estar-n-llegando-a-su-fin",
@@ -764,7 +764,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/c85145f3-5969-42b2-8a83-349210ba6b45.png",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.1683168316831682
+    "ratio": null
   },
   {
     "slug": "las-velocidades-m-ximas-en-los-c-lculos-hidr-ulicos",
@@ -777,7 +777,7 @@
     "thumb": "https://files.catbox.moe/2trz5s.jpg",
     "theme_keys": "hidraulica",
     "theme_label": "Hidráulica",
-    "ratio": 3.1824561403508773
+    "ratio": null
   },
   {
     "slug": "los-equipos-de-extinci-n-propulsados-por-nitr-geno-usos-aplicaciones-y-limitaciones",
@@ -790,7 +790,7 @@
     "thumb": "https://files.catbox.moe/bmiboc.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 0.9811912225705329
+    "ratio": null
   },
   {
     "slug": "los-rociadores-inteligentes",
@@ -803,7 +803,7 @@
     "thumb": "https://files.catbox.moe/yra95g.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.1612903225806452
+    "ratio": null
   },
   {
     "slug": "mangueras-contra-incendio-y-su-importancia-en-la-seguridad-de-los-ocupantes-desde-una-perspectiva-latinoamericana-analisis-estadistico",
@@ -816,7 +816,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/6dfdad70-ff69-4d71-98bd-c724bcc982cd.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 2.5028248587570623
+    "ratio": null
   },
   {
     "slug": "mitos-y-realidades-en-tuber-as-para-uso-contra-incendios",
@@ -829,7 +829,7 @@
     "thumb": "https://files.catbox.moe/5hmas9.jpg",
     "theme_keys": "materiales-y-construccion",
     "theme_label": "Materiales y Construcción",
-    "ratio": 1.9259259259259258
+    "ratio": null
   },
   {
     "slug": "prueba-de-fuego",
@@ -842,7 +842,7 @@
     "thumb": "https://files.catbox.moe/yk3hj3.jpg",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 1.7080745341614907
+    "ratio": null
   },
   {
     "slug": "rociadores-instalados-en-techos-nubosos",
@@ -855,7 +855,7 @@
     "thumb": "https://files.catbox.moe/4eh3aw.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 0.8064935064935065
+    "ratio": null
   },
   {
     "slug": "seguridad-contra-incendios-al-alcance-de-todos",
@@ -868,7 +868,7 @@
     "thumb": "https://files.catbox.moe/e5yvri.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.8181818181818181
+    "ratio": null
   },
   {
     "slug": "simulaciones-de-evacuaci-n-para-el-an-lisis-de-la-seguridad-en-edificaciones-complejas",
@@ -881,7 +881,7 @@
     "thumb": "https://files.catbox.moe/yhot52.jpg",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.9828080229226361
+    "ratio": null
   },
   {
     "slug": "son-los-bomberos-los-defensores-de-nuestro-patrimonio-hist-rico",
@@ -894,7 +894,7 @@
     "thumb": "https://files.catbox.moe/kslr2y.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.5495283018867925
+    "ratio": null
   },
   {
     "slug": "una-cuesti-n-de-piel",
@@ -907,7 +907,7 @@
     "thumb": "https://files.catbox.moe/7h68ut.jpg",
     "theme_keys": "materiales-y-construccion",
     "theme_label": "Materiales y Construcción",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "an-lisis-de-redes-p-blicas-de-agua-para-el-suministro-de-agua-a-redes-contra-incendio-privadas",
@@ -920,7 +920,7 @@
     "thumb": "https://files.catbox.moe/18gk4r.jpg",
     "theme_keys": "hidraulica",
     "theme_label": "Hidráulica",
-    "ratio": 1.2304526748971194
+    "ratio": null
   },
   {
     "slug": "el-concepto-de-almacenamiento-de-agua-para-el-combate-de-incendios",
@@ -933,7 +933,7 @@
     "thumb": "https://files.catbox.moe/x38sed.jpg",
     "theme_keys": "materiales-y-construccion",
     "theme_label": "Materiales y Construcción",
-    "ratio": 1.4644549763033174
+    "ratio": null
   },
   {
     "slug": "el-patr-n-de-descarga-de-los-rociadores",
@@ -946,7 +946,7 @@
     "thumb": "https://files.catbox.moe/i8kqqh.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "el-uso-de-caudales-de-manguera-en-sistemas-protegidos-con-rociadores-autom-ticos",
@@ -959,7 +959,7 @@
     "thumb": "https://files.catbox.moe/wlhevo.jpg",
     "theme_keys": "hidraulica",
     "theme_label": "Hidráulica",
-    "ratio": 1.0561122244488979
+    "ratio": null
   },
   {
     "slug": "en-qu-se-diferencia-un-sistema-de-tuber-a-seca-de-un-sistema-de-acci-n-previa-sin-enclavamiento",
@@ -972,7 +972,7 @@
     "thumb": "https://i.ibb.co/DDkYYZGt/portada-tuberia-seca-accion-previa.webp",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.8376722817764166
+    "ratio": null
   },
   {
     "slug": "en-un-edificio-de-oficinas-de-m-ltiples-propietarios-es-necesario-que-todas-las-oficinas-que-pertenecen-a-diferentes-propietarios-tengan-su-propia-estaci-n-controladora-de-flujo",
@@ -985,7 +985,7 @@
     "thumb": "https://i.ibb.co/kLBSC6d/portada-multiples-propietarios.webp",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.8376722817764166
+    "ratio": null
   },
   {
     "slug": "es-necesario-que-los-equipos-y-o-materiales-a-emplear-en-un-sistema-de-protecci-n-contra-incendios-cuenten-a-la-vez-con-las-certificaciones-de-ul-y-fm",
@@ -998,7 +998,7 @@
     "thumb": "https://files.catbox.moe/vnj8c3.jpg",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.9004854368932038
+    "ratio": null
   },
   {
     "slug": "existe-alg-n-l-mite-de-presi-n-en-un-sistema-de-rociadores-o-una-red-de-agua-contra-incendios",
@@ -1011,7 +1011,7 @@
     "thumb": "https://i.ibb.co/VWVgZPYr/portada-limite-de-presion.webp",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.8376722817764166
+    "ratio": null
   },
   {
     "slug": "la-efectividad-de-un-sistema-de-rociadores",
@@ -1024,7 +1024,7 @@
     "thumb": "https://files.catbox.moe/gy3j9g.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.6666666666666667
+    "ratio": null
   },
   {
     "slug": "la-historia-de-los-inicios-del-invento-de-los-rociadores-autom-ticos",
@@ -1037,7 +1037,7 @@
     "thumb": "https://files.catbox.moe/fluxoc.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.3012259194395797
+    "ratio": null
   },
   {
     "slug": "la-tecnolog-a-de-activaci-n-de-los-rociadores-de-cobertura-extendida",
@@ -1050,7 +1050,7 @@
     "thumb": "https://files.catbox.moe/j23sx4.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 0.5334224598930482
+    "ratio": null
   },
   {
     "slug": "la-temperatura-de-un-incendio",
@@ -1063,7 +1063,7 @@
     "thumb": "https://files.catbox.moe/8eaklc.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "los-sistemas-de-acci-n-previa-usos-y-aplicaciones",
@@ -1076,7 +1076,7 @@
     "thumb": "https://files.catbox.moe/v084lp.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.0289693593314764
+    "ratio": null
   },
   {
     "slug": "por-qu-la-altura-del-an-lisis-de-supervivencia-de-los-rociadores-residenciales-es-5-pies-y-no-es-un-mayor-valor-c-mo-se-trata-este-tema-con-los-discapacitados",
@@ -1089,7 +1089,7 @@
     "thumb": "https://files.catbox.moe/ud4s4d.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 0.9949622166246851
+    "ratio": null
   },
   {
     "slug": "por-qu-son-los-rociadores-de-respuesta-r-pida-necesarios-en-los-riesgos-leves",
@@ -1102,7 +1102,7 @@
     "thumb": "https://files.catbox.moe/wnimi9.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.0802919708029197
+    "ratio": null
   },
   {
     "slug": "protecci-n-contra-incendios-con-rociadores-residenciales-en-unidades-de-vivienda",
@@ -1115,7 +1115,7 @@
     "thumb": "https://files.catbox.moe/pbvxyc.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.3392612859097128
+    "ratio": null
   },
   {
     "slug": "se-deben-pintar-las-tuber-as-de-agua-contra-incendios-color-rojo",
@@ -1128,7 +1128,7 @@
     "thumb": "https://files.catbox.moe/n9yath.jpg",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.7773109243697478
+    "ratio": null
   },
   {
     "slug": "se-deben-proteger-con-rociadores-las-salas-de-equipos-el-ctricos-en-los-edificios",
@@ -1141,7 +1141,7 @@
     "thumb": "https://files.catbox.moe/wppbb1.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.4475374732334048
+    "ratio": null
   },
   {
     "slug": "a-medio-metro-de-diametro-ningun-combustible-arde-a-su-maxima-intensidad",
@@ -1154,7 +1154,7 @@
     "thumb": "https://files.catbox.moe/t9bjsb.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "abrir-una-ventana-durante-un-incendio-puede-salvarte-la-vida-pero-tambien-acelerar-el-desenlace",
@@ -1167,7 +1167,7 @@
     "thumb": "https://files.catbox.moe/o59sw4.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "aislar-una-pared-puede-subir-la-temperatura-interna-a-963-grados",
@@ -1180,7 +1180,7 @@
     "thumb": "https://files.catbox.moe/2u3qo7.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "an-lisis-experimental-de-la-resistencia-al-fuego-en-muros-de-alba-iler-a-s-lico-calc-rea",
@@ -1193,7 +1193,7 @@
     "thumb": "https://files.catbox.moe/d16qgq.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "arrhenius-cuando-la-temperatura-no-aumenta-los-procesos-los-dispara",
@@ -1206,7 +1206,7 @@
     "thumb": "https://files.catbox.moe/hq7zqw.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "c-mo-vaciar-un-equipo-con-gas-sin-que-explote",
@@ -1219,7 +1219,7 @@
     "thumb": "https://files.catbox.moe/xdr3ba.jpg",
     "theme_keys": "",
     "theme_label": "",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "cu-nto-calor-llega-al-techo-y-a-qu-distancia",
@@ -1232,7 +1232,7 @@
     "thumb": "https://files.catbox.moe/9wm24n.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "cu-nto-humo-puede-extraer-un-ventilador-antes-de-que-la-capa-de-humo-descienda",
@@ -1245,7 +1245,7 @@
     "thumb": "https://files.catbox.moe/qnp7hr.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "cuando-el-agua-en-el-fondo-de-un-tanque-se-convierte-en-arma-letal",
@@ -1258,7 +1258,7 @@
     "thumb": "https://files.catbox.moe/33r34r.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "cuando-el-incendio-fluye",
@@ -1271,7 +1271,7 @@
     "thumb": "https://files.catbox.moe/4hfotr.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "cuando-una-explosi-n-lenta-se-convierte-en-detonaci-n",
@@ -1284,7 +1284,7 @@
     "thumb": "https://files.catbox.moe/y3b212.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "d-nde-empieza-el-fuego-importa-tanto-como-su-tama-o",
@@ -1297,7 +1297,7 @@
     "thumb": "https://files.catbox.moe/8za8cx.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "din-mica-de-la-transferencia-de-calor-a-trav-s-de-muros",
@@ -1310,7 +1310,7 @@
     "thumb": "https://files.catbox.moe/y8ihh5.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "din-mica-de-masas-en-incendios-el-fuego-como-motor-de-aire",
@@ -1323,7 +1323,7 @@
     "thumb": "https://files.catbox.moe/fdxg4r.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "disenar-un-fuego-de-laboratorio-no-es-tan-simple-como-parece",
@@ -1336,7 +1336,7 @@
     "thumb": "https://files.catbox.moe/lih4qb.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "el-chorro-de-techo-y-la-respuesta-de-los-detectores",
@@ -1349,7 +1349,7 @@
     "thumb": "https://files.catbox.moe/sbf3zp.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "el-dilema-de-la-ventilaci-n-el-mismo-gesto-que-te-da-tiempo-te-lo-quita",
@@ -1362,7 +1362,7 @@
     "thumb": "https://files.catbox.moe/iqujm9.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.8469798657718122
+    "ratio": null
   },
   {
     "slug": "el-efecto-sin-rgico-de-la-radiaci-n-en-espacios-confinados",
@@ -1375,7 +1375,7 @@
     "thumb": "https://files.catbox.moe/p4fzud.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "el-fuego-calienta-lo-que-no-toca",
@@ -1388,7 +1388,7 @@
     "thumb": "https://files.catbox.moe/8zowpm.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "el-fuego-no-es-solo-qu-mica",
@@ -1401,7 +1401,7 @@
     "thumb": "https://files.catbox.moe/iyt5rx.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "el-hombre-detr-s-del-libro",
@@ -1414,7 +1414,7 @@
     "thumb": "https://files.catbox.moe/spw00j.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 0.6974885844748858
+    "ratio": null
   },
   {
     "slug": "el-hombre-que-le-puso-f-sica-al-fuego",
@@ -1427,7 +1427,7 @@
     "thumb": "https://files.catbox.moe/qh366z.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "el-incendio-no-es-solo-un-fuego-es-una-maquina-termodin-mica",
@@ -1440,7 +1440,7 @@
     "thumb": "https://files.catbox.moe/ad05wa.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "el-l-mite-de-inflamabilidad-de-una-mezcla-no-es-el-promedio-de-sus-componentes",
@@ -1453,7 +1453,7 @@
     "thumb": "https://files.catbox.moe/kar2gq.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "el-material-que-apaga-su-propia-llama-y-mata-a-las-personas",
@@ -1466,7 +1466,7 @@
     "thumb": "https://files.catbox.moe/a0ip4g.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "el-material-que-mejor-aisla-se-calienta-mas-en-superficie",
@@ -1479,7 +1479,7 @@
     "thumb": "https://files.catbox.moe/7b6kzi.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "el-mejor-extintor-que-existi-y-por-qu-lo-prohibieron",
@@ -1492,7 +1492,7 @@
     "thumb": "https://files.catbox.moe/fa5uha.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "el-mito-de-la-carga-vs-la-realidad-de-la-potencia",
@@ -1505,7 +1505,7 @@
     "thumb": "https://files.catbox.moe/2t4g9n.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "el-mito-de-que-el-calor-solo-afecta-el-punto-donde-est-el-fuego",
@@ -1518,7 +1518,7 @@
     "thumb": "https://files.catbox.moe/5amf1s.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "el-modelo-de-las-4-etapas-del-incendio-la-simplificaci-n-y-dogma",
@@ -1531,7 +1531,7 @@
     "thumb": "https://files.catbox.moe/gg8f6v.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "el-motor-invisible-de-un-incendio-por-qu-los-edificios-respiran-humo",
@@ -1544,7 +1544,7 @@
     "thumb": "https://files.catbox.moe/dp256i.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "el-nivel-de-ox-geno-que-lo-cambia-todo",
@@ -1557,7 +1557,7 @@
     "thumb": "https://files.catbox.moe/8bxhol.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "el-numero-que-predice-la-voracidad-de-un-incendio",
@@ -1570,7 +1570,7 @@
     "thumb": "https://files.catbox.moe/f83erb.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "el-veneno-que-produce-el-incendio-antes-de-que-el-fuego-se-vea",
@@ -1583,7 +1583,7 @@
     "thumb": "https://files.catbox.moe/omy8x5.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "flashpoint-y-firepoint-dos-conceptos-que-no-son-lo-mismo",
@@ -1596,7 +1596,7 @@
     "thumb": "https://files.catbox.moe/ueau94.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "inercia-t-rmica-el-escudo-de-ladrillo-vs-la-trampa-del-aislamiento",
@@ -1609,7 +1609,7 @@
     "thumb": "https://files.catbox.moe/aq8sfk.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "la-altura-de-llama-no-depende-de-lo-que-se-piensa",
@@ -1622,7 +1622,7 @@
     "thumb": "https://files.catbox.moe/hhnm9r.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-cantidad-de-energ-a-que-necesita-una-explosi-n",
@@ -1635,7 +1635,7 @@
     "thumb": "https://files.catbox.moe/8rvlm6.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-ceguera-de-la-ubicaci-n-el-efecto-esquina",
@@ -1648,7 +1648,7 @@
     "thumb": "https://files.catbox.moe/4nc64e.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "la-fisica-deja-huellas-que-se-pueden-calcular",
@@ -1661,7 +1661,7 @@
     "thumb": "https://files.catbox.moe/djbnrz.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "la-fisica-del-desastre-por-qu-una-fachada-puede-arder-en-minutos",
@@ -1674,7 +1674,7 @@
     "thumb": "https://files.catbox.moe/ijfkwq.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "la-geometr-a-que-nadie-calcula-cuando-dise-a",
@@ -1687,7 +1687,7 @@
     "thumb": "https://files.catbox.moe/c84nkf.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "la-importancia-de-una-simple-puerta-en-la-seguridad-contra-incendios",
@@ -1700,7 +1700,7 @@
     "thumb": "https://files.catbox.moe/sjn7ot.png",
     "theme_keys": "materiales-y-construccion",
     "theme_label": "Materiales y Construcción",
-    "ratio": 1.7916666666666667
+    "ratio": null
   },
   {
     "slug": "la-llama-que-no-se-ve-y-no-se-apaga",
@@ -1713,7 +1713,7 @@
     "thumb": "https://files.catbox.moe/9p3563.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-resistencia-al-fuego-es-como-la-resistencia-el-ctrica",
@@ -1726,7 +1726,7 @@
     "thumb": "https://files.catbox.moe/w9qy14.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "la-tasa-de-carbonizacion-y-el-mito-de-estimar-el-tiempo-de-un-incendio",
@@ -1739,7 +1739,7 @@
     "thumb": "https://files.catbox.moe/d5punb.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-trampa-del-riesgo-leve-la-ventana-como-v-lvula-de-seguridad",
@@ -1752,7 +1752,7 @@
     "thumb": "https://files.catbox.moe/oyfk28.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "la-trampa-del-riesgo-leve-por-qu-la-ingenier-a-prescriptiva-falla-ante-la-din-mica-de-incendios",
@@ -1765,7 +1765,7 @@
     "thumb": "https://files.catbox.moe/7n6rsm.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "la-variable-que-decide-cu-ndo-se-incendia-un-material",
@@ -1778,7 +1778,7 @@
     "thumb": "https://files.catbox.moe/v0z3q7.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "la-variable-que-nadie-mide-en-un-incendio",
@@ -1791,7 +1791,7 @@
     "thumb": "https://files.catbox.moe/nponak.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "lo-que-nadie-cuenta-sobre-los-l-mites-de-inflamabilidad",
@@ -1804,7 +1804,7 @@
     "thumb": "https://files.catbox.moe/ya4zkt.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "longitud-de-la-llama-heskestad",
@@ -1817,7 +1817,7 @@
     "thumb": "https://files.catbox.moe/xa734l.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "materiales-termicamente-delgados-y-gruesos",
@@ -1830,7 +1830,7 @@
     "thumb": "https://files.catbox.moe/dm5hw8.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.047034764826176
+    "ratio": null
   },
   {
     "slug": "no-todo-es-kw-el-error-de-mirar-solo-la-potencia-del-incendio",
@@ -1843,7 +1843,7 @@
     "thumb": "https://files.catbox.moe/3vcf93.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "por-qu-dos-materiales-a-la-misma-temperatura-se-sienten-diferente",
@@ -1856,7 +1856,7 @@
     "thumb": "https://files.catbox.moe/uu5aem.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "por-qu-el-acero-falla-antes-que-el-hormig-n",
@@ -1869,7 +1869,7 @@
     "thumb": "https://files.catbox.moe/m3zrz2.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "por-qu-el-hidr-geno-es-ocho-veces-m-s-peligroso-que-el-gas-natural",
@@ -1882,7 +1882,7 @@
     "thumb": "https://files.catbox.moe/5nitm4.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "por-qu-el-mejor-extintor-no-enfriaba-ni-sofocaba-la-inhibici-n-de-las-reacciones-en-cadena",
@@ -1895,7 +1895,7 @@
     "thumb": "https://files.catbox.moe/ta3rsw.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "por-qu-el-viento-cambia-completamente-la-f-sica-de-un-incendio",
@@ -1908,7 +1908,7 @@
     "thumb": "https://files.catbox.moe/p49xf9.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "por-qu-las-estructuras-colapsan-antes-de-que-el-fuego-las-toque",
@@ -1921,7 +1921,7 @@
     "thumb": "https://files.catbox.moe/nozr6w.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "por-qu-los-detectores-en-los-atrios-pueden-no-activar",
@@ -1934,7 +1934,7 @@
     "thumb": "https://files.catbox.moe/djxs0f.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "por-qu-los-rociadores-pueden-fallar-contra-incendios-grandes",
@@ -1947,7 +1947,7 @@
     "thumb": "https://files.catbox.moe/ldizrm.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "por-qu-un-almac-n-de-pl-sticos-no-es-lo-mismo-que-un-almac-n-de-madera",
@@ -1960,7 +1960,7 @@
     "thumb": "https://files.catbox.moe/waixf0.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7772511848341233
+    "ratio": null
   },
   {
     "slug": "por-qu-un-avi-n-es-m-s-peligroso-a-cierta-altura",
@@ -1973,7 +1973,7 @@
     "thumb": "https://files.catbox.moe/9sk98j.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "por-qu-un-fuego-en-una-esquina-no-es-el-mismo-fuego-que-en-campo-abierto",
@@ -1986,7 +1986,7 @@
     "thumb": "https://files.catbox.moe/pddb9r.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "por-qu-un-gas-combustible-no-siempre-arde",
@@ -1999,7 +1999,7 @@
     "thumb": "https://files.catbox.moe/sukpd3.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "por-qu-un-material-con-temperatura-de-ignici-n-de-630-c-arde-antes-que-otro-de-300-c",
@@ -2012,7 +2012,7 @@
     "thumb": "https://files.catbox.moe/s3muk1.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "por-qu-una-llama-no-puede-pasar-por-un-tubo-muy-estrecho",
@@ -2025,7 +2025,7 @@
     "thumb": "https://files.catbox.moe/cywbkx.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "por-que-pierdes-mas-calor-por-la-ventana-que-por-la-pared",
@@ -2038,7 +2038,7 @@
     "thumb": "https://files.catbox.moe/xrdwfl.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "por-que-un-derrame-y-un-charco-no-son-lo-mismo-aunque-se-vean-igual",
@@ -2051,7 +2051,7 @@
     "thumb": "https://files.catbox.moe/9pd3b9.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "productos-termicamente-delgados-en-incendios",
@@ -2064,7 +2064,7 @@
     "thumb": "https://files.catbox.moe/oq53u7.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "sotanos-y-baterias-de-ion-litio-el-combo-mortal",
@@ -2077,7 +2077,7 @@
     "thumb": "https://files.catbox.moe/12tg89.jfif",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 1.5057283142389526
+    "ratio": null
   },
   {
     "slug": "un-fuego-m-s-peque-o-puede-requerir-m-s-extracci-n-de-humo",
@@ -2090,7 +2090,7 @@
     "thumb": "https://files.catbox.moe/pqr5wo.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "un-incendio-mas-grande-puede-arder-con-menos-intensidad",
@@ -2103,7 +2103,7 @@
     "thumb": "https://files.catbox.moe/zd3dmw.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778
+    "ratio": null
   },
   {
     "slug": "una-l-mina-de-acero-y-la-f-sica-que-esconde",
@@ -2116,7 +2116,7 @@
     "thumb": "https://files.catbox.moe/d8q829.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "una-tela-de-algodon-tarda-seis-segundos-en-llegar-a-100-grados",
@@ -2129,7 +2129,7 @@
     "thumb": "https://files.catbox.moe/hc95k1.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "aeropuerto-jorge-ch-vez-las-fallas-que-no-pueden-estar-en-la-puerta-de-entrada-del-per",
@@ -2142,7 +2142,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/2525a937-d201-469d-ba35-b4bb6d0b255a.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.3333333333333333
+    "ratio": null
   },
   {
     "slug": "c-mo-se-certifica-un-rociador-autom-tico-la-norma-ul-199",
@@ -2155,7 +2155,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/080390f4-0711-4a9f-b9cc-a13084776c84.png",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 2.4522292993630574
+    "ratio": null
   },
   {
     "slug": "el-incendio-de-ko-ani-macedonia-del-norte-otra-tragedia-anunciada-en-una-discoteca",
@@ -2168,7 +2168,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/68450e8a-98c8-490c-a8e7-c25c02d564e0.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 1.6950354609929077
+    "ratio": null
   },
   {
     "slug": "el-s-ndrome-de-la-caja-negra",
@@ -2181,7 +2181,7 @@
     "thumb": "https://files.catbox.moe/kj9h08.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "la-velocidad-de-respuesta-de-los-rociadores-y-la-din-mica-de-los-incendios",
@@ -2194,7 +2194,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/594a0717-00f1-4299-a05b-e01ad166c1c3.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.8333333333333333
+    "ratio": null
   },
   {
     "slug": "las-grandes-irracionalidades-de-la-norma-nfpa-14-presiones-caudales-y-el-modelo-que-nadie-cuestiona",
@@ -2207,7 +2207,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/03776d55-f529-463d-9a32-48220118d591.png",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "per-cuando-la-norma-no-es-justicia",
@@ -2220,7 +2220,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/6a1d3073-cc83-4b05-9a3f-8ea98c3d0348.png",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "pruebas-hidr-ulicas-de-bombas-contra-incendios-fundamentos-errores-comunes-y-criterios-de-selecci-n",
@@ -2233,7 +2233,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/d53f669f-6d34-49b7-b931-13c07d6c99d5.png",
     "theme_keys": "hidraulica",
     "theme_label": "Hidráulica",
-    "ratio": 1.6430062630480167
+    "ratio": null
   },
   {
     "slug": "grenfell-cuando-todo-falla-y-nadie-es-culpable",
@@ -2246,7 +2246,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/6490d5e7-76df-4da0-9220-47c777b91433.jpg",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "guillermo-rein-la-voz-de-los-fuegos-ocultos",
@@ -2259,7 +2259,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/0f4b03d9-9c71-4309-b098-42584ff0d9d5.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.8726655348047538
+    "ratio": null
   },
   {
     "slug": "hong-kong-de-la-tradici-n-a-la-tragedia",
@@ -2272,7 +2272,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/09794e3c-88fc-418b-ace2-1b9e649e6278.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 1.5005861664712778
+    "ratio": null
   },
   {
     "slug": "incendios-en-glp-qu-pas-en-renca",
@@ -2285,7 +2285,7 @@
     "thumb": "https://image.pollinations.ai/prompt/Historical%20industrial%20explosion%20accident%20documentation%2C%20dramatic%20vapor%20cloud%20explosion%20VCE%20flash%20fire%20BLEVE%20industrial%20facility%2C%20dark%20dramatic%20sky%20with%20massive%20orange%20fireball%20and%20black%20smoke%20column%2C%20industrial%20pipes%20and%20storage%20tanks%20silhouetted%2C%20photorealistic%20dramatic%20lighting%2C%20cinematic%20wide%20angle%2C%20safety%20engineering%20reference%20image%2C%20ultra%20detailed?width=1200&height=630&seed=42&nologo=true",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 1.9046762589928057
+    "ratio": null
   },
   {
     "slug": "incendios-en-locales-nocturnos-el-mismo-patr-n-el-mismo-final",
@@ -2298,7 +2298,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/57aefa6f-ada4-4ffc-93cd-24c0df87499f.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 0.963855421686747
+    "ratio": null
   },
   {
     "slug": "rociadores-en-techos-altos-cuando-la-f-sica-desaf-a-la-norma",
@@ -2311,7 +2311,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/50604f9e-947e-4ff1-8c96-ad0cc7999d92.png",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "ciudades-recubiertas-de-petr-leo-en-vertical-la-lecci-n-t-cnica-de-las-mallas-pl-sticas-en-obra",
@@ -2324,7 +2324,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/522b1b5a-63c1-46dd-8ea7-17ea3b71e6f7.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 1.778125
+    "ratio": null
   },
   {
     "slug": "el-fuego-que-las-normas-no-explican",
@@ -2337,7 +2337,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/4a494b68-3079-44e7-b98a-d3a3b34ab21d.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778125
+    "ratio": null
   },
   {
     "slug": "el-mito-de-los-extintores-para-bater-as-de-ion-litio-lo-que-la-nta-8133-ensaya-y-lo-que-no",
@@ -2350,7 +2350,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/927375b6-e022-4d6e-a954-31ee7c84c24e.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.778125
+    "ratio": null
   },
   {
     "slug": "fen-menos-peligrosos-en-incendios-interiores-son-todos-lo-mismo",
@@ -2363,7 +2363,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/52f43c1e-01ab-4af5-828a-031c69be75f4.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.0940325497287522
+    "ratio": null
   },
   {
     "slug": "los-rociadores-salvan-vidas",
@@ -2376,7 +2376,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/05bb296a-7ec3-491a-8ab0-359b6aa8711f.png",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.778125
+    "ratio": null
   },
   {
     "slug": "mitos-y-realidades-en-tuber-as-para-uso-contra-incendios-lo-m-s-costoso-es-lo-mejor",
@@ -2389,7 +2389,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/20b6831f-7b6c-49a6-b198-e61257f95525.jpg",
     "theme_keys": "materiales-y-construccion",
     "theme_label": "Materiales y Construcción",
-    "ratio": 1.8210526315789475
+    "ratio": null
   },
   {
     "slug": "a-la-caza-de-los-errores-en-aeropuertos",
@@ -2402,7 +2402,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/246096c5-ff83-41d2-b7bb-3ca69d854cc7.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 2.1440536013400333
+    "ratio": null
   },
   {
     "slug": "a-qu-temperatura-arde-un-incendio",
@@ -2415,7 +2415,7 @@
     "thumb": "https://i.ibb.co/ds589WtF/Temperatura-Incendio.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 2.2458628841607564
+    "ratio": null
   },
   {
     "slug": "ataque-interior-vs-ataque-exterior-en-edificios-de-gran-altura",
@@ -2428,7 +2428,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/c3a785b6-a66f-4357-afbf-934671bb2a68.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 0.7781774580335732
+    "ratio": null
   },
   {
     "slug": "blitz-attack",
@@ -2441,7 +2441,7 @@
     "thumb": "https://i.ibb.co/xKxhQR6b/portada-blitz-attack.webp",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.0216535433070866
+    "ratio": null
   },
   {
     "slug": "c-mo-crece-un-incendio-la-matem-tica-detr-s-del-fuego",
@@ -2454,7 +2454,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/1645923d-e17c-4fa3-b999-ac3cedad1411.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.4234016887816647
+    "ratio": null
   },
   {
     "slug": "c-mo-se-deriva-la-f-rmula-q-t2",
@@ -2467,7 +2467,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/ed726232-cde8-4ae4-b395-80f64076e9de.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7717842323651452
+    "ratio": null
   },
   {
     "slug": "c-mo-se-prepara-el-camino-hacia-una-explosi-n-de-humos",
@@ -2480,7 +2480,7 @@
     "thumb": "https://i.ibb.co/xt45rTrS/portada-explosion-de-humos.webp",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7543859649122806
+    "ratio": null
   },
   {
     "slug": "como-perder-agua-en-un-solo-video",
@@ -2506,7 +2506,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/ea5f5bd9-6bc1-453e-ac96-403e331cc8a2.jpg",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "cuando-las-estad-sticas-ponen-en-cuesti-n-los-m-rgenes-de-seguridad-de-la-nfpa-13",
@@ -2519,7 +2519,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/a97ae8d6-2900-4cc2-815f-6846fca2f55a.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 0.9265905383360522
+    "ratio": null
   },
   {
     "slug": "cuando-todos-lloran-el-mercado-vende-pa-uelos",
@@ -2532,7 +2532,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/113e6eea-0584-4ea4-af8b-70453894a0d9.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 0.6666666666666666
+    "ratio": null
   },
   {
     "slug": "deflagraciones-de-glp",
@@ -2545,7 +2545,7 @@
     "thumb": "https://i.ibb.co/gMgHk3yq/Deflagraciones-de-GLP.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 0.6666666666666666
+    "ratio": null
   },
   {
     "slug": "el-desaf-o-de-los-incendios-en-bater-as-electr-cas",
@@ -2558,7 +2558,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/94b3e2e7-8331-46d8-8edb-1f991a0f5177.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.425357873210634
+    "ratio": null
   },
   {
     "slug": "el-futuro-de-los-rociadores",
@@ -2571,7 +2571,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/2dd7454c-7b96-4960-b31f-ec2e63b4d054.png",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.0018832391713748
+    "ratio": null
   },
   {
     "slug": "el-modelo-roto-de-la-ingenier-a-contra-incendios",
@@ -2584,7 +2584,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/3476ffa4-9c44-4db5-b6f0-cbed962201c0.png",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.0021186440677967
+    "ratio": null
   },
   {
     "slug": "el-poder-de-una-simple-puerta",
@@ -2597,7 +2597,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/03f81740-0ccb-4991-959f-a6cbe1fc7267.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 0.7802907915993538
+    "ratio": null
   },
   {
     "slug": "es-la-temperatura-del-incendio-lo-que-importa-o-la-tasa-de-liberaci-n-de-calor",
@@ -2623,7 +2623,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/45b257d2-02b9-4624-ab4e-ecb516307cf1.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "evacuaci-n-en-grupos-y-la-teor-a-de-la-afiliaci-n",
@@ -2636,7 +2636,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/6a6b2a9b-af79-4e47-9939-1f60a7a91cc3.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "explosiones-en-polvos-comestibles-parece-divertido-pero-puede-matar",
@@ -2649,7 +2649,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/069195d3-edbe-412f-8524-1da9cdc37e2d.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.776536312849162
+    "ratio": null
   },
   {
     "slug": "fusi-n-de-multitudes-durante-una-evacuaci-n-por-qu-es-cada-vez-m-s-usada-la-ingenier-a-basada-en-el-desempe-o",
@@ -2662,7 +2662,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/db9466bf-48c2-423b-8556-d124736f4460.jpg",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.9029239766081871
+    "ratio": null
   },
   {
     "slug": "glp-y-celular",
@@ -2675,7 +2675,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/bb1fb0c1-6710-4bac-81c9-ef3795319184.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 0.577906976744186
+    "ratio": null
   },
   {
     "slug": "impacto-de-los-rociadores-residenciales-en-incendios-de-e-scooters-originados-por-el-descontrol-t-rmico-de-bater-as-de-ion-litio",
@@ -2688,7 +2688,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/3b1f3601-9dbc-49f8-a9f0-ad1dfdef3fc6.png",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.8631732168850073
+    "ratio": null
   },
   {
     "slug": "incendio-de-goa-en-la-india-8-dic-25",
@@ -2701,7 +2701,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/d95afba9-7c4d-46f5-8577-a4135e4275b1.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 0.5685814771395076
+    "ratio": null
   },
   {
     "slug": "incendio-en-syctcom-en-paris-edificio-de-reciclaje",
@@ -2714,7 +2714,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/9b5e1757-9261-49c9-9f94-383ba4beee5b.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 0.6657645466847091
+    "ratio": null
   },
   {
     "slug": "incendio-estadio-bradford",
@@ -2727,7 +2727,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/b674a239-3863-445c-a4c8-e856ace99cef.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 1.3353293413173652
+    "ratio": null
   },
   {
     "slug": "incendios-en-veh-culos-el-ctricos-entre-el-miedo-la-innovaci-n-y-el-vac-o-normativo",
@@ -2740,7 +2740,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/999b1fe3-a89f-4a88-aad4-b67960b18df4.webp",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.75054704595186
+    "ratio": null
   },
   {
     "slug": "incendios-mas-calientes-o-mas-rapidos",
@@ -2753,7 +2753,7 @@
     "thumb": "https://i.ibb.co/BHVHCkXz/Incendios-m-s-calientes-o-m-s-r-pidos-1.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 0.6666666666666666
+    "ratio": null
   },
   {
     "slug": "incendo-en-la-cop-nov-2025",
@@ -2766,7 +2766,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/239c4495-6b35-485e-9734-863ee2b04158.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 0.5983213429256595
+    "ratio": null
   },
   {
     "slug": "la-caja-a-n-negra-de-las-bater-as-de-litio",
@@ -2779,7 +2779,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/6c339bca-7d6a-4e4f-a1e0-df4a0ef2a72a.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "la-f-sica-oculta-del-fuego-en-interiores",
@@ -2792,7 +2792,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/0f4b3c4f-9205-4038-b669-87616ebbc3ef.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.8794037940379404
+    "ratio": null
   },
   {
     "slug": "la-huella-del-sol-en-los-incendios",
@@ -2805,7 +2805,7 @@
     "thumb": "https://i.ibb.co/WJXJCBx/La-Huella-del-Sol-en-los-Incendios-1.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "la-ilusi-n-de-la-manguera-como-sistema-de-protecci-n-la-cadena-que-no-est-entera",
@@ -2818,7 +2818,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/b9916ff0-7dc9-42bf-9b7f-3f9c443a2255.webp",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.75
+    "ratio": null
   },
   {
     "slug": "la-importancia-de-las-siamesas-y-conexiones-de-bomberos-frente-a-las-mangueras-interiores",
@@ -2831,7 +2831,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/be74dd1f-b7a3-423e-a29d-65fdcde4456a.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 0.7455830388692579
+    "ratio": null
   },
   {
     "slug": "los-rociadores-funcionan-pero-deben-estar-al-alcance-de-todos",
@@ -2844,7 +2844,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/c3eb41c5-19ed-406c-a830-582cbf6fb641.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.095187165775401
+    "ratio": null
   },
   {
     "slug": "los-rociadores-no-apagan-incendios-los-rociadores-salvan-vidas",
@@ -2857,7 +2857,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/5b8ec074-424d-486b-a192-96e5e29801f8.png",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.5375153751537516
+    "ratio": null
   },
   {
     "slug": "los-rociadores-y-el-derecho-a-estar-protegido",
@@ -2870,7 +2870,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/72efe7d0-e715-44f9-833c-19a4b9b0dde6.png",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "m-s-r-pido-no-es-mejor-en-una-evacuaci-n",
@@ -2883,7 +2883,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/a6ee4136-85f5-42cb-b309-e47e24758d91.jpg",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.7341227125941874
+    "ratio": null
   },
   {
     "slug": "mangueras-contra-incendio-y-su-importancia-en-la-seguridad-de-los-ocupantes-desde-una-perspectiva-latinoamericana",
@@ -2896,7 +2896,7 @@
     "thumb": "https://i.ibb.co/Tq85DHMZ/portada-mangueras-ocupantes.webp",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.8376722817764166
+    "ratio": null
   },
   {
     "slug": "otra-tragedia-anunciada-discotecas-y-fuegos-artificiales-el-negocio-de-la-muerte-entre-la-negligencia-y-corrupci-n",
@@ -2909,7 +2909,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/6e0ac6fb-b964-41f2-9a1c-6f4921ca2353.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 0.8130841121495327
+    "ratio": null
   },
   {
     "slug": "paneles-sandwich-eficiencia-que-tambien-exige-responsabilidad",
@@ -2922,7 +2922,7 @@
     "thumb": "https://i.ibb.co/FLW7S4HN/portada-paneles-sandwich.webp",
     "theme_keys": "materiales-y-construccion",
     "theme_label": "Materiales y Construcción",
-    "ratio": 1.8376722817764166
+    "ratio": null
   },
   {
     "slug": "peligro-estructural-del-concreto-armado-en-incendios",
@@ -2935,7 +2935,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/2ba034ab-ec9d-4598-b34e-525fa38b63b9.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 2.019455252918288
+    "ratio": null
   },
   {
     "slug": "por-qu-la-mayor-a-no-usa-la-salida-m-s-cercana-en-una-evacuaci-n-parte-1",
@@ -2948,7 +2948,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/d1bc1b6c-118d-43ec-9269-9eb78623cc7a.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.1518560179977504
+    "ratio": null
   },
   {
     "slug": "por-qu-la-mayor-a-no-usa-la-salida-m-s-cercana-en-una-evacuaci-n-parte-2",
@@ -2961,7 +2961,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/007886fa-1dbe-4a2e-91c2-c3e0a51ba113.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.8421658986175116
+    "ratio": null
   },
   {
     "slug": "por-qu-la-mayor-a-no-usa-la-salida-m-s-cercana-en-una-evacuaci-n-parte-3",
@@ -2974,7 +2974,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/30f610e5-4d6a-4f4d-b09e-86cd17952e5a.jpg",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.5338842975206612
+    "ratio": null
   },
   {
     "slug": "por-qu-la-mayor-a-no-usa-la-salida-m-s-cercana-en-una-evacuaci-n-parte-4",
@@ -2987,7 +2987,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/8904aea3-831e-45ed-95af-74dc48d2947f.jpg",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.853658536585366
+    "ratio": null
   },
   {
     "slug": "por-qu-la-multitud-se-atasca-si-todos-quieren-salir-un-experimento-que-revela-el-caos-en-una-evacuaci-n",
@@ -3000,7 +3000,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/a5ee6903-e016-4b89-81e3-764e1a7caf43.jpg",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.7341227125941874
+    "ratio": null
   },
   {
     "slug": "por-qu-nadie-se-mueve-cuando-suena-la-alarma",
@@ -3013,7 +3013,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/4738c075-547b-4015-96d8-530e9df005e3.jpg",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.849144634525661
+    "ratio": null
   },
   {
     "slug": "por-qu-no-creer-en-los-extintores",
@@ -3026,7 +3026,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/455e28d9-1a6b-4f31-9bd2-84f4568bced7.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 0.6380697050938338
+    "ratio": null
   },
   {
     "slug": "por-qu-sigo-defendiendo-al-rociador-autom-tico",
@@ -3039,7 +3039,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/cceffe4c-5c89-4c78-bd8b-b769211b83df.png",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 0.8678571428571429
+    "ratio": null
   },
   {
     "slug": "tardar-en-empezar-la-evacuacion",
@@ -3052,7 +3052,7 @@
     "thumb": "https://i.ibb.co/278y1fGv/2-Tardar-en-Empezar-la-Evacuacion-3-Abr.jpg",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.849144634525661
+    "ratio": null
   },
   {
     "slug": "un-incendio-en-una-discoteca-de-macedonia-del-norte",
@@ -3065,7 +3065,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/8c2a3af0-b164-49b0-aa5d-f0d21b81312c.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 0.837772397094431
+    "ratio": null
   },
   {
     "slug": "un-video-para-ni-os-una-pregunta-para-adultos",
@@ -3078,7 +3078,7 @@
     "thumb": "https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/7ebdd8a3-fa69-43a7-a70e-9d0a2d501cbc.png",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.8488783943329399
+    "ratio": null
   },
   {
     "slug": "avanzaron-al-rev-s-primero-compraron-los-zapatos-luego-buscaron-el-pie",
@@ -3091,7 +3091,7 @@
     "thumb": "https://i.ibb.co/F4G3bw6W/Avanzaron-al-Rev-s.png",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "bater-as-de-ion-de-litio-el-problema-no-es-extinguir-incendios-sino-que-estos-no-ocurran",
@@ -3104,7 +3104,7 @@
     "thumb": "https://i.ibb.co/nMZZb7t9/Baterias-de-Ion-Litio-Riesgo-Intrinseco.png",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 0.7665198237885462
+    "ratio": null
   },
   {
     "slug": "c-lculos-de-bleves",
@@ -3117,7 +3117,7 @@
     "thumb": "https://i.ibb.co/QFcYp9SN/Calculo-de-Bleves.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "carga-de-fuego-vs-liberaci-n-de-energ-a",
@@ -3130,7 +3130,7 @@
     "thumb": "https://i.ibb.co/7t9YDsfL/CARGA-DE-FUEGO-VS-LIBERACI-N-DE-ENERG-A-1.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "chile-y-per-cuando-la-ingenier-a-se-subordina-al-tr-mite",
@@ -3143,7 +3143,7 @@
     "thumb": "https://i.ibb.co/6cnyp6zq/Chile-y-Per-Cuando-La-Ingenier-a-se-Subordina-al-Tr-mite.png",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "cu-l-es-la-diferencia-entre-un-incendio-con-y-sin-rociadores",
@@ -3156,7 +3156,7 @@
     "thumb": "https://i.ibb.co/7d3G35CT/Diferencia-entre-un-incendio-con-y-sin-rociadores.png",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "cu-nto-va-a-durar-este-incendio",
@@ -3169,7 +3169,7 @@
     "thumb": "https://i.ibb.co/MxDbsRt3/Cuanto-va-a-durar-este-incendio.webp",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "cuando-venezuela-era-el-pa-s-m-s-avanzado-en-protecci-n-contra-incendios",
@@ -3182,7 +3182,7 @@
     "thumb": "https://i.ibb.co/Q7Gp5Lsg/Venezuela-Fin-de-la-Dictadura.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.337228714524207
+    "ratio": null
   },
   {
     "slug": "dise-ar-pensando-solo-en-personas-sanas-es-un-error-t-cnico-y-tico",
@@ -3195,7 +3195,7 @@
     "thumb": "https://i.ibb.co/pjRYVTvz/16-Dise-ar-Pensando-solo-en-personas-sanas-es-antitecnico-y-antietico-2.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "el-caso-de-paula-behnke",
@@ -3208,7 +3208,7 @@
     "thumb": "https://i.ibb.co/VcbZb3TX/portada-caso-paula-behnke.webp",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "el-error-fatal-en-el-dise-o-de-sistemas-de-rociadores-en-el-per-que-nadie-est-queriendo-ver",
@@ -3221,7 +3221,7 @@
     "thumb": "https://i.ibb.co/4R3nK37f/Error-Fatal-Dise-o-Rociadores-1.png",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "el-flashover-es-un-problema-de-radiaci-n",
@@ -3234,7 +3234,7 @@
     "thumb": "https://i.ibb.co/67FPk1yg/El-Flashover-es-un-Problema-de-Radiacion.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.8519515477792732
+    "ratio": null
   },
   {
     "slug": "el-hrr-no-es-un-dato-del-material",
@@ -3247,7 +3247,7 @@
     "thumb": "https://i.ibb.co/B5t22sWt/El-HRR-no-es-un-dato-del-Material.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.8632362897765742
+    "ratio": null
   },
   {
     "slug": "el-mito-de-la-clase-0",
@@ -3260,7 +3260,7 @@
     "thumb": "https://i.ibb.co/SXzK9Sk0/El-mito-de-la-Clase-0.jpg",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "el-mito-de-la-densidad-de-descarga-de-los-rociadores",
@@ -3273,7 +3273,7 @@
     "thumb": "https://i.ibb.co/TxTVqwMs/Mito-Densidad-de-Descarga-NFPA-13.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 2.565891472868217
+    "ratio": null
   },
   {
     "slug": "el-mito-de-las-trampas-de-humo-en-los-ba-os-de-las-edificaciones",
@@ -3286,7 +3286,7 @@
     "thumb": "https://i.ibb.co/rG8661fv/EL-MITO-DE-LAS-TRAMPAS-DE-HUMO-EN-LOS-BA-OS-DE-LAS-EDIFICACIONES.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 2.1953255425709517
+    "ratio": null
   },
   {
     "slug": "el-mito-del-p-nico",
@@ -3299,7 +3299,7 @@
     "thumb": "https://i.ibb.co/Ng3krky1/Mito-del-Panico-2.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "el-modelo-roto-de-la-ingenier-a-contra-incendios-la-lecci-n-de-inglaterra",
@@ -3312,7 +3312,7 @@
     "thumb": "https://i.ibb.co/BHvg2LDH/El-Modelo-Roto-de-la-Ingenieria-Contra-Incendios-La-Lecci-n-de-Inglaterra.jpg",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "el-ox-geno-el-verdadero-acelerador-de-los-incendios",
@@ -3325,7 +3325,7 @@
     "thumb": "https://i.ibb.co/kVbCn9Rr/El-ox-geno-el-verdadero-acelerador-de-los-incendios-1.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.6081632653061224
+    "ratio": null
   },
   {
     "slug": "el-prop-sito-de-nfpa-13-no-est-en-los-aditivos",
@@ -3338,7 +3338,7 @@
     "thumb": "https://i.ibb.co/RpC3dPHn/NFPA-13-y-Los-Aditivos.png",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.2942191544434858
+    "ratio": null
   },
   {
     "slug": "en-ingenier-a-contra-incendios-copiar-y-pegar-puede-costar-vidas",
@@ -3351,7 +3351,7 @@
     "thumb": "https://i.ibb.co/kgbDGckt/Copy-y-Paste.jpg",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "en-protecci-n-contra-incendios-qui-n-es-el-real-responsable",
@@ -3364,7 +3364,7 @@
     "thumb": "https://i.ibb.co/N6SytWyC/4.png",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.4463007159904535
+    "ratio": null
   },
   {
     "slug": "es-el-fin-de-la-ingenier-a-prescriptiva-la-brecha-entre-ciencia-e-ingenier-a",
@@ -3377,7 +3377,7 @@
     "thumb": "https://i.ibb.co/v64FFpPj/Es-el-Fin-de-la-Ingenier-a-Prescriptiva.png",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "es-tiempo-de-repensar-el-modelo-de-protecci-n-contra-incendios-en-latinoam-rica",
@@ -3390,7 +3390,7 @@
     "thumb": "https://i.ibb.co/q3PHkPgt/Rompiendo-mitos-2.png",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.6677524429967427
+    "ratio": null
   },
   {
     "slug": "hrr-acelerado-y-gradientes-t-rmicos-el-verdadero-riesgo-estructural",
@@ -3403,7 +3403,7 @@
     "thumb": "https://i.ibb.co/JWSVgwDg/Spalling-2.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "ingberg-vs-kawagoe-dos-modelos-que-definieron-el-entendimiento-de-los-incendios-en-recintos",
@@ -3416,7 +3416,7 @@
     "thumb": "https://i.ibb.co/RT7RcNW8/Ingberg-vs-Kawagoe.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "jap-n-un-ejemplo-de-que-la-semilla-de-la-prevenci-n-se-inocula-en-la-ni-ez",
@@ -3429,7 +3429,7 @@
     "thumb": "https://i.ibb.co/S4GYrK8B/Japon-un-ejemplo-de-que-la-semilla-de-la-prevencion-se-inocula-en-la-ninez-2.png",
     "theme_keys": "comportamiento-humano-en-incendios",
     "theme_label": "Comportamiento Humano",
-    "ratio": 1.4727722772277227
+    "ratio": null
   },
   {
     "slug": "la-carga-emocional-de-investigar-un-incendio",
@@ -3442,7 +3442,7 @@
     "thumb": "https://i.ibb.co/r2kF3wpz/La-Carga-Emocional-de-Investigar-un-Incendio.png",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "la-ilusi-n-de-las-mantas-ign-fugas-en-incendios-de-veh-culos-el-ctricos",
@@ -3455,7 +3455,7 @@
     "thumb": "https://i.ibb.co/Rp26z97T/Mantas-Ignifugas-en-VE.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "la-norma-es-la-receta-la-ingenier-a-es-el-oficio",
@@ -3468,7 +3468,7 @@
     "thumb": "https://i.ibb.co/5g6BjHyz/La-Norma-es-la-Receta-La-Ingenieria-es-el-Oficio.png",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "la-responsabilidad-de-dise-ar-para-supervivencia",
@@ -3481,7 +3481,7 @@
     "thumb": "https://i.ibb.co/PzDJP4jW/La-Materializacion-de-la-Seguridad-Contra-Incendios.png",
     "theme_keys": "normativa-y-criterio-tecnico",
     "theme_label": "Normativa y Criterio",
-    "ratio": 1.0118577075098814
+    "ratio": null
   },
   {
     "slug": "la-temperatura-de-ignici-n-no-es-un-n-mero-fijo",
@@ -3494,7 +3494,7 @@
     "thumb": "https://i.ibb.co/hJ6K8Gbk/La-Temperatura-de-Ignicion-no-es-un-numero-fijo.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "la-trampa-de-las-reas-iguales",
@@ -3507,7 +3507,7 @@
     "thumb": "https://i.ibb.co/zH0G4k6n/Curva-Ingberg.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.5625
+    "ratio": null
   },
   {
     "slug": "las-bater-as-de-ion-litio-no-son-un-riesgo-convencional",
@@ -3533,7 +3533,7 @@
     "thumb": "https://i.ibb.co/fz5yzSK2/Agua-para-Consumo-Domestico-y-ACI.png",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 2.0857538035961274
+    "ratio": null
   },
   {
     "slug": "m-s-k-para-mejor-control-rociadores-m-s-eficientes-para-parqueos-con-autos-el-ctricos",
@@ -3546,7 +3546,7 @@
     "thumb": "https://i.ibb.co/7dXXNChq/Mas-K-para-mejor-control.jpg",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "m-s-tanques-menos-redes-el-modelo-que-aisla-el-agua-contra-incendios",
@@ -3559,7 +3559,7 @@
     "thumb": "https://i.ibb.co/xqcCnQBQ/10-Cisternas-de-Incendio-Compartidas-1.png",
     "theme_keys": "hidraulica",
     "theme_label": "Hidráulica",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "no-es-el-veh-culo-el-ctrico-el-que-debe-adaptarse-es-el-entorno-el-que-debe-evolucionar",
@@ -3572,7 +3572,7 @@
     "thumb": "https://i.ibb.co/ynKtxPq8/Adaptacion-a-Nuevas-Tecnologias-Caso-de-los-VE.webp",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.7518248175182483
+    "ratio": null
   },
   {
     "slug": "otra-fachada-que-arde-otra-ocasi-n-en-que-la-norma-llega-despu-s-del-fuego",
@@ -3598,7 +3598,7 @@
     "thumb": "https://i.ibb.co/CKnJZjxd/Donacion-de-Trajes.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "plagio-en-linkedin-por-qu-copiar-sin-atribuir-pone-en-riesgo-la-seguridad-contra-incendios",
@@ -3611,7 +3611,7 @@
     "thumb": "https://i.ibb.co/kgbDGckt/Copy-y-Paste.jpg",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.7777777777777777
+    "ratio": null
   },
   {
     "slug": "por-qu-un-cierra-puertas-puede-salvar-m-s-vidas-que-un-extintor-o-una-manguera",
@@ -3624,7 +3624,7 @@
     "thumb": "https://i.ibb.co/Kj1gsM0b/13-Cierra-Puertas-Vs-Extintor-y-Manguera-5may-1.png",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.5
+    "ratio": null
   },
   {
     "slug": "proteger-desde-abajo-una-respuesta-a-incendios-en-veh-culos-el-ctricos",
@@ -3637,7 +3637,7 @@
     "thumb": "https://i.ibb.co/B5gy1NCq/PROTEGER-DESDE-ABAJO.png",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.6368221941992434
+    "ratio": null
   },
   {
     "slug": "qu-hacer-cuando-est-s-atrapado-en-un-incendio-los-incendios-estructurales-modernos-liberan-una-mezcla-letal-de-gases",
@@ -3650,7 +3650,7 @@
     "thumb": "https://i.ibb.co/24nb8mL/Qu-Hacer-cuando-est-s-atrapado-en-un-incendio-2.png",
     "theme_keys": "",
     "theme_label": "",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "qu-pas-en-grenfell-mirada-t-cnica-del-desastre",
@@ -3663,7 +3663,7 @@
     "thumb": "https://i.ibb.co/XxTymdXq/Qu-Pas-en-Grenfell-Mirada-Tecnica-2.png",
     "theme_keys": "casos-reales-y-lecciones",
     "theme_label": "Casos Reales y Lecciones",
-    "ratio": 1.4875491480996068
+    "ratio": null
   },
   {
     "slug": "qu-son-los-espacios-a-prueba-de-tonto-la-importancia-de-la-redundancia-en-la-protecci-n-contra-incendios",
@@ -3676,7 +3676,7 @@
     "thumb": "https://i.ibb.co/VWBzGxhc/Espacios-a-Prueba-de-Tontos.webp",
     "theme_keys": "divulgacion-y-reflexion",
     "theme_label": "Divulgación y Reflexión",
-    "ratio": 1.0
+    "ratio": null
   },
   {
     "slug": "si-los-rociadores-lanzan-agua-en-forma-circular-por-qu-dise-amos-usando-patrones-cuadrados",
@@ -3689,7 +3689,7 @@
     "thumb": "https://i.ibb.co/x81ZwMgc/Patron-de-Descarga-de-los-Rociadores.png",
     "theme_keys": "rociadores",
     "theme_label": "Rociadores",
-    "ratio": 1.6358839050131926
+    "ratio": null
   },
   {
     "slug": "spalling-cuando-el-concreto-explota-en-un-incendio",
@@ -3702,6 +3702,6 @@
     "thumb": "https://i.ibb.co/JWSVgwDg/Spalling-2.jpg",
     "theme_keys": "dinamica-del-fuego",
     "theme_label": "Dinámica del Fuego",
-    "ratio": 1.5
+    "ratio": null
   }
 ]
