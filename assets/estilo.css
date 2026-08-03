@@ -147,3 +147,12 @@ a{color:var(--ember)}
   .grid{padding:16px 20px 50px}
   .theme-head{padding:0 16px}
 }
+
+/* Navegacion entre partes de una serie (al final del articulo) */
+.serie-nav{max-width:var(--measure);margin:3.5rem auto 0;padding:1.5rem 24px 0;border-top:1px solid var(--line);display:flex;flex-direction:column;gap:.7rem;font-family:"Inter",sans-serif}
+.serie-nav .serie-nombre{margin:0;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--data);font-weight:600}
+.serie-nav a{text-decoration:none}
+.serie-nav a:hover{text-decoration:underline}
+.serie-nav .serie-prev{font-size:13px;color:var(--muted)}
+.serie-nav .serie-next{font-size:16px;font-weight:600;color:var(--ember)}
+.serie-nav .serie-fin{font-size:14px;color:var(--muted);font-style:italic}
